@@ -1,8 +1,7 @@
 Title: Star Trek
 Date: 2015-07-04 01:16:43
 Modified: 2015-07-04 01:16:43
-Category: Book
-Tags:
+Tags: Star Trek
 Authors: Tracy Poff
 
 I've a particular interest in how fictional characters and worlds change over the years. How they are handled by different authors, in different media, in different decades and centuries fascinates me.
