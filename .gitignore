@@ -1,0 +1,6 @@
+# junk
+*.pyc
+
+cache/
+output/
+garbage/
