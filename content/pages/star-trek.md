@@ -59,5 +59,5 @@ Whenever possible, I'll be reading the books in publication order, to get a bett
 [star-trek-4]: {filename}../star-trek-4.md
 [star-trek-5]: {filename}../star-trek-5.md
 [star-trek-6]: {filename}../star-trek-6.md
-[entropy-effect]: http://otherstuffexists.wordpress.com/2014/03/23/the-entropy-effect/
+[entropy-effect]: {filename}../entropy-effect.md
 [strange-and-amazing-facts-about-star-trek]: http://otherstuffexists.wordpress.com/2014/03/25/strange-and-amazing-facts-about-star-trek-by-daniel-cohen/
