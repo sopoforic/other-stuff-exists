@@ -55,7 +55,7 @@ Whenever possible, I'll be reading the books in publication order, to get a bett
 [star-trek-2]: {filename}../star-trek-2.md
 [making-of-star-trek]: {filename}../making-of-star-trek.md
 [star-trek-3]: {filename}../star-trek-3.md
-[spock-must-die]: http://otherstuffexists.wordpress.com/2014/12/03/spock-must-die-by-james-blish/
+[spock-must-die]: {filename}../spock-must-die.md
 [star-trek-4]: {filename}../star-trek-4.md
 [star-trek-5]: {filename}../star-trek-5.md
 [star-trek-6]: {filename}../star-trek-6.md
