@@ -25,7 +25,7 @@ Whenever possible, I'll be reading the books in publication order, to get a bett
 1971-07 || Primary   || [*Star Trek 4*][star-trek-4] by James Blish
 1972-02 || Primary   || [*Star Trek 5*][star-trek-5] by James Blish
 1972-04 || Primary   || [*Star Trek 6*][star-trek-6] by James Blish
-1972-07 || Primary   || *Star Trek 7* by James Blish
+1972-07 || Primary   || [*Star Trek 7*][star-trek-7] by James Blish
 1972-11 || Primary   || *Star Trek 8* by James Blish
 1973-05 || Secondary || *The Trouble with Tribbles* by David Gerrold
 1973-05 || Secondary || *The World of Star Trek* by David Gerrold
@@ -97,5 +97,6 @@ Date  |&nbsp;&nbsp;&nbsp;&nbsp;| Publication |&nbsp;&nbsp;&nbsp;&nbsp;| Note
 [star-trek-4]: {filename}../star-trek-4.md
 [star-trek-5]: {filename}../star-trek-5.md
 [star-trek-6]: {filename}../star-trek-6.md
+[star-trek-7]: {filename}../star-trek-7.md
 [entropy-effect]: {filename}../entropy-effect.md
 [strange-and-amazing-facts-about-star-trek]: {filename}../strange-and-amazing-facts-about-star-trek.md
