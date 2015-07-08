@@ -36,17 +36,17 @@ In general, if you liked the episode, the adaptation should be acceptably entert
 
 If you're looking to read only a little from this period, then prioritize [*Spock Must Die!*][spock-must-die-amzn], then [*Mission to Horatius*][mission-to-horatius-amzn]. Follow up with as many (or as few) of Blish's books as seem interesting to you, if you're still hungry for old *Trek* lit, after those two.
 
-[star-trek-1]: {filename}../star-trek-1.md
-[mission-to-horatius]: {filename}../mission-to-horatius.md
-[star-trek-2]: {filename}../star-trek-2.md
-[making-of-star-trek]: {filename}../making-of-star-trek.md
-[star-trek-3]: {filename}../star-trek-3.md
-[spock-must-die]: {filename}../spock-must-die.md
-[star-trek-4]: {filename}../star-trek-4.md
-[star-trek-5]: {filename}../star-trek-5.md
-[star-trek-6]: {filename}../star-trek-6.md
-[star-trek-7]: {filename}../star-trek-7.md
-[star-trek-8]: {filename}../star-trek-8.md
+[star-trek-1]: {filename}star-trek-1.md
+[mission-to-horatius]: {filename}mission-to-horatius.md
+[star-trek-2]: {filename}star-trek-2.md
+[making-of-star-trek]: {filename}making-of-star-trek.md
+[star-trek-3]: {filename}star-trek-3.md
+[spock-must-die]: {filename}spock-must-die.md
+[star-trek-4]: {filename}star-trek-4.md
+[star-trek-5]: {filename}star-trek-5.md
+[star-trek-6]: {filename}star-trek-6.md
+[star-trek-7]: {filename}star-trek-7.md
+[star-trek-8]: {filename}star-trek-8.md
 
 [star-trek-1-amzn]: http://www.amazon.com/gp/product/1553056299/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1553056299&amp;linkCode=as2&amp;tag=othstuexi-20&amp;linkId=LX4HAYTTNJHOP5KN
 [mission-to-horatius-amzn]: http://www.amazon.com/gp/product/067102812X/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=067102812X&amp;linkCode=as2&amp;tag=othstuexi-20&amp;linkId=OJLIDPXQHYX7S63M
