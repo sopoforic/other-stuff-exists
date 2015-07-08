@@ -30,7 +30,7 @@ Whenever possible, I'll be reading the books in publication order, to get a bett
 1973-05 | Secondary | *The Trouble with Tribbles* by David Gerrold
 1973-05 | Secondary | *The World of Star Trek* by David Gerrold
 1973-08 | Primary   | [*Star Trek 9*][star-trek-9] by James Blish
-1974-02 | Primary   | *Star Trek 10* by James Blish
+1974-02 | Primary   | [*Star Trek 10*][star-trek-10] by James Blish
 1974-06 | Primary   | *Star Trek Log One* by Alan Dean Foster
 1974-09 | Primary   | *Star Trek Log Two* by Alan Dean Foster
 1975-01 | Primary   | *Star Trek Log Three* by Alan Dean Foster
@@ -100,5 +100,6 @@ Date  |&nbsp;&nbsp;&nbsp;&nbsp;| Publication |&nbsp;&nbsp;&nbsp;&nbsp;| Note
 [star-trek-7]: {filename}../star-trek-7.md
 [star-trek-8]: {filename}../star-trek-8.md
 [star-trek-9]: {filename}../star-trek-9.md
+[star-trek-10]: {filename}../star-trek-10.md
 [entropy-effect]: {filename}../entropy-effect.md
 [strange-and-amazing-facts-about-star-trek]: {filename}../strange-and-amazing-facts-about-star-trek.md
