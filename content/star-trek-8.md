@@ -14,11 +14,14 @@ The first story in this book is the execrable "Spock's Brain". Good news, though
 It's still not a very good story, unfortunately. Although Blish reduced the story's stupidity substantially, he didn't do anything to improve its women-in-power-are-evil-and-incompetent message. If anything, he exacerbated that problem. Some choice quotes:
 
 > The five male bodies, helplessly stretched at her feet, pleased the lady. When the girl Luma joined her, the spectacle pleased her, too.
-> \[...\]
+
+<!-- -->
 > Beside each woman knelt a man, sleek, well fed, docile as a eunuch. Occasionally a woman stroked a man as one pats a well-housebroken pet.
-> \[...\]
+
+<!-- -->
 > They *are* retardates, Kirk thought. Getting through to whatever gray matter existed in that beautiful head was going to be tough.
-> \[...\]
+
+<!-- -->
 > The women around her, infected by her panic, twittered like birds at the approach of a snake.
 
 To be fair, the thrust of the last two is that the women were helpless because the machinery cared for them too well. It's unfortunate, all the same.
