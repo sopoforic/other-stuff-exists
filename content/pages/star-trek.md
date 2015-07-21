@@ -43,22 +43,10 @@ Whenever possible, I'll be reading the books in publication order, to get a bett
 1977-07 | *The Price of the Phoenix* by Sondra Marshak & Myrna Culbreath
 1977-08 | *Planet of Judgment* by Joe Haldeman
 1977-11 | *Star Trek 12* by James Blish & J. A. Lawrence
-1977-11 | *The City on the Edge of Forever* by Harlan Ellison
-1977-11 | *Where No Man Has Gone Before* by Samuel A. Peeples
-1977-12 | *The Trouble With Tribbles* by David Gerrold
 1978-01 | *Star Trek: The New Voyages 2* by Sondra Marshak & Myrna Culbreath (eds.)
 1978-01 | *Star Trek Log Ten* by Alan Dean Foster
-1978-01 | *A Taste of Armageddon* by Robert Hamner & Gene L. Coon
-1978-02 | *Metamorphosis* by Gene L. Coon
 1978-05 | *Mudd's Angels* by J. A. Lawrence & James Blish
-1978-05 | *All Our Yesterdays* by Jean Lisette Aroeste
-1978-05 | *The Galileo 7* by Oliver Crawford & S. Bar-David
-1978-06 | *A Piece of the Action* by David P. Harmon & Gene L. Coon
-1978-07 | *The Devil in the Dark* by Gene L. Coon
-1978-08 | *Day of the Dove* by Jerome Bixby
 1978-09 | *Vulcan!* by Kathleen Sky
-1978-09 | *The Deadly Years* by David P. Harmon
-1978-10 | *Amok Time* by Theodore Sturgeon
 1978-11 | *The Starless World* by Gordon Eklund
 **GAP** | **GAP**
 1981-06 | [*The Entropy Effect*][entropy-effect] by Vonda N. McIntyre
@@ -106,6 +94,20 @@ Whenever possible, I'll be reading the books in publication order, to get a bett
 1977    | *Meaning in Star Trek* by Karin Blair
 1977-06 | *Star Trek Quiz Book* by Brad Dunning & Bart Andrews
 1977-08 | *Star Trek Puzzle Manual* by James Razzi
+1977-11 | *The City on the Edge of Forever* by Harlan Ellison[^fotonovel]
+1977-11 | *Where No Man Has Gone Before* by Samuel A. Peeples[^fotonovel]
+1977-12 | *The Trouble With Tribbles* by David Gerrold[^fotonovel]
+1978-01 | *A Taste of Armageddon* by Robert Hamner & Gene L. Coon[^fotonovel]
+1978-02 | *Metamorphosis* by Gene L. Coon[^fotonovel]
+1978-05 | *All Our Yesterdays* by Jean Lisette Aroeste[^fotonovel]
+1978-05 | *The Galileo 7* by Oliver Crawford & S. Bar-David[^fotonovel]
+1978-06 | *A Piece of the Action* by David P. Harmon & Gene L. Coon[^fotonovel]
+1978-07 | *The Devil in the Dark* by Gene L. Coon[^fotonovel]
+1978-08 | *Day of the Dove* by Jerome Bixby[^fotonovel]
+1978-09 | *The Deadly Years* by David P. Harmon[^fotonovel]
+1978-10 | *Amok Time* by Theodore Sturgeon[^fotonovel]
+
+[^fotonovel]: From a series of 'fotonovels'. Essentially comic books made from screencaps of the television series, with text bubbles added in.
 
 ## Publications of no particular interest
 
