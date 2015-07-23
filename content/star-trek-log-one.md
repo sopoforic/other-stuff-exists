@@ -8,7 +8,7 @@ After (finally!) finishing [the tenth in James Blish's series of adaptations][st
 
 [![Star Trek Log One cover]({filename}images/star-trek-log-one-cover.jpg)][star-trek-log-one-amzn]
 
-Like Blish's *Star Trek* series, Foster's *Star Trek Log* series adapts television episodes. There, though, the similarities end. Blish adapted hour-long episodes into roughly twenty-five page short stories. Foster adapts half-hour episodes into (in this book) roughly sixty page short stories. And oh, but the extra pages are well-used.
+Like Blish's *Star Trek* series, Foster's *Star Trek Log* series adapts television episodes. There, though, the similarities end. Blish adapted hour-long episodes into roughly twenty-five page short stories. Foster adapts half-hour episodes into (in this book) roughly sixty-page short stories. And oh, but the extra pages are well-used.
 
 I hate to be too hard on Blish, but reading his adaptations is very like reading scripts re-arranged as prose. Plenty of dialogue, some stage directions, and a bit of description to set the scene. But unless Kirk says it out loud, we have no idea what he's thinking, and twenty-five pages is too short for the narrator to spend any time musing on events, either.
 
@@ -22,7 +22,7 @@ The *Enterprise* is not alone. They find there a ship of alien design and of ext
 
 This very being is accidentally transported back to the *Enterprise* when the away team returns, and quickly infects the ship's computer. Only through guile and sheer nerve are the *Enterprise* crew able to regain control of their ship and escape both the energy being and the dead star.
 
-Even if 'the *Enterprise* encounters an unexpected spacial anomaly' isn't the most original plot, this story is still satisfying. It starts off strong, with interesting prose making good use of the opportunity to expand on Kirk's thoughts in a moment of down time. The segment in which the away team investigates the alien vessel, too, is good, giving a nice sense of exploration.
+Even if 'the *Enterprise* encounters an unexpected spatial anomaly' isn't the most original plot, this story is still satisfying. It starts off strong, with interesting prose making good use of the opportunity to expand on Kirk's thoughts in a moment of down time. The segment in which the away team investigates the alien vessel, too, is good, giving a nice sense of exploration.
 
 The actual conflict with the alien being I found to be less interesting. The role of the being was mostly to shout commands menacingly while occasionally providing some direct physical danger, and Kirk (in, it must be said, an appropriately Kirk-like fashion) tricks it into leaving the ship just as they escape. There would have been more tension if we couldn't be sure that things would work out in the end, but as the story approached its climax there were still a hundred pages in my right hand arguing against anything too unexpected happening.
 
@@ -34,7 +34,7 @@ It transpires that Kirk and Spock have arrived in a timeline in which Spock was 
 
 They conclude that the visiting relative must have been Spock himself, traveling back in time. Other historians viewed Vulcan's past while Kirk and Spock were away. Since Spock was already somewhere else and couldn't exist in two places at once, the past was changed so that Spock's fateful visit never occurred. In order to restore history to its familiar form, Spock must travel into his own past and save his younger self, duplicating the events he remembers as exactly as he can manage.
 
-Despite some minor difficulty interacting with his parents, Spock is successful in preventing his younger counterpart from being killed. However, the *le-matya*'s attack claims another victim: Spock's beloved pet *sehlat*. When Spock returns and informs Kirk of his success, and small deviation in the timeline, Kirk opines that "that wouldn't mean much in the course of time", though Spock, affected by the death, replies that "it might \[...\] to some".
+Despite some minor difficulty interacting with his parents, Spock is successful in preventing his younger counterpart from being killed. However, the *le-matya*'s attack claims another victim: Spock's beloved pet *sehlat*. When Spock returns and informs Kirk of his success, and the small deviation in the timeline, Kirk opines that "that wouldn't mean much in the course of time", though Spock, affected by the death, replies that "it might \[...\] to some".
 
 This is an excellent story. The episode that it is based on was Dorothy Fontana's sole contribution to *The Animated Series*, and a worthy contribution it was. It's very satisfying to see a young Spock, to meet his parents once again, to get another glimpse of the planet Vulcan. The story hangs together very well and maintains interest throughout.
 
