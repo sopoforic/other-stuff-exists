@@ -26,7 +26,7 @@ In "The Galileo Seven", Spock's logical style of command is put to the test when
 
 In "Is There in Truth No Beauty?", the *Enterprise* plays host to an alien ambassador so ugly that the sight of him will drive a man mad. I liked this story because it's focused on the characters. There are unique dynamics between Miranda and each of Spock, Kirk, and Marvick, and we get a good look at Kirk and Spock's friendship, too.
 
-"A Private Little War" is a metaphor (explicitly stated, even) for the Vietnam War. The Klingons have given one faction on a previously idyllic planet weapons with which to subjugate another faction (coincidetally favored by Kirk). Kirk ultimately determines to arm 'his' side equally to the other, maintaining a careful balance of power, to prevent either side from being totally destroyed. Is his decision correct? I wonder. It's a great story.
+"A Private Little War" is a metaphor (explicitly stated, even) for the Vietnam War. The Klingons have given one faction on a previously idyllic planet weapons with which to subjugate another faction (coincidentally favored by Kirk). Kirk ultimately determines to arm 'his' side equally to the other, maintaining a careful balance of power, to prevent either side from being totally destroyed. Is his decision correct? I wonder. It's a great story.
 
 "The Omega Glory", frankly, is just embarrassing. It's all very rah-rah about the superiority of the United States, as depicted by a society with a truly unbelievable degree of parallel evolution with Earth, in which the communists took over the world. Don't worry, though, because the Good Guys win in the end, and Kirk recites the Pledge of Allegiance and the Preamble to the Constitution. Because America!
 
